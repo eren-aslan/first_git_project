@@ -1,6 +1,8 @@
 package day_01;
 
 public class HelloCydeo {
+    public static void main(String[] args) {
 
-  // the change addedS
+        System.out.println("Hello Cydeo");
+    }
 }
